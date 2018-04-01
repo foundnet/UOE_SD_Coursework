@@ -1,0 +1,17 @@
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\bin\Debug\BloodContinent.exe.config
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\bin\Debug\BloodContinent.exe
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\bin\Debug\BloodContinent.pdb
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.csprojResolveAssemblyReference.cache
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.Properties.Resources.resources
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.csproj.GenerateResource.cache
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.csproj.CoreCompileInputs.cache
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.exe
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.pdb
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.FormSimulateGame.resources
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.FormLogin.resources
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.FormMain.resources
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.FormManage.resources
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.FormAddRoster.resources
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.FormAddWeapon.resources
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.FormAddEquipment.resources
+E:\CodeRoot\VSProjects\BloodContinent\BloodContinent\obj\Debug\BloodContinent.FormBattle.resources
